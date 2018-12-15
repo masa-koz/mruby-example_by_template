@@ -1,0 +1,7 @@
+name: mruby-example_by_template
+description: ExampleByTemplate class
+author: Masahiro Kozuka
+website: https://github.com/masa-koz/mruby-example_by_template
+protocol: git
+repository: https://github.com/masa-koz/mruby-example_by_template.git
+license: MIT
